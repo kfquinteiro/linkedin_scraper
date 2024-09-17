@@ -41,3 +41,6 @@ A more accurate solution is needed to convert this into a specific publish date.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+## Last but not least...
+
+Since it's a scraper, use carefully.
