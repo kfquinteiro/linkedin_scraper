@@ -4,6 +4,10 @@ This simple Python script allows you to gather data from any company's public Li
 
 With this script, you can retrieve the URL of each post, as well as all publicly available engagement data (likes, comments, shares) and the post description. While it’s a straightforward tool, it’s highly useful when building marketing strategies based on competitor benchmarking.
 
+## Technologies
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ## Features
 
 - Fetches public posts from a specified LinkedIn company profile.
@@ -36,10 +40,6 @@ Contributions are always welcome!
 
 One known issue is the occasional lack of post publish date in the data, since LinkedIn currently relies on relative time (e.g., "2 months ago"). 
 A more accurate solution is needed to convert this into a specific publish date.
-
-## Technologies
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Last but not least...
 
